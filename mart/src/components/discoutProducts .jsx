@@ -1,4 +1,3 @@
-
 import productImg01 from "../Images/double-sofa-01.png"
 import productImg02 from "../Images/double-sofa-02.png"
 import productImg08 from "../Images/arm-chair-02.jpg"
@@ -11,7 +10,7 @@ export const discoutProducts = [
       productName: "Stone and Beam Westview ",
       imgUrl: productImg01,
       category: "sofa",
-      price: 193,
+      price: "$193",
       discount:30,
       shortDesc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
@@ -29,7 +28,7 @@ export const discoutProducts = [
       productName: "Rivet Bigelow Modern ",
       imgUrl: productImg02,
       category: "sofa",
-      price: 253,
+      price: "$253",
       discount:20,
       shortDesc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
@@ -52,7 +51,7 @@ export const discoutProducts = [
       productName: "Baltsar Chair",
       imgUrl: productImg08,
       category: "chair",
-      price: 89,
+      price: "$89",
       discount:15,
       shortDesc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
@@ -75,7 +74,7 @@ export const discoutProducts = [
       productName: "Helmar Chair",
       imgUrl: productImg09,
       category: "chair",
-      price: 112,
+      price: "$112",
       discount:35,
       shortDesc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
@@ -98,7 +97,7 @@ export const discoutProducts = [
       productName: "Realme 8",
       imgUrl: phone03,
       category: "mobile",
-      price: 599,
+      price: "$599",
       discount:10,
       shortDesc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
@@ -121,7 +120,7 @@ export const discoutProducts = [
       productName: "One Plus Nord",
       imgUrl: phone04,
       category: "mobile",
-      price: 799,
+      price: "$799",
       discount:5,
       shortDesc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
